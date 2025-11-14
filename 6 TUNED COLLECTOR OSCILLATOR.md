@@ -2,16 +2,21 @@
 **Date:**  
 
 ## TUNED COLLECTOR OSCILLATOR USING LTSPICE
- <img width="988" height="554" alt="image" src="https://github.com/user-attachments/assets/459926ea-df5a-42ff-b4ac-8baa60cbadf7" />
+<img width="988" height="554" alt="image" src="https://github.com/user-attachments/assets/47e500b2-2047-427c-8a63-59b5fc78ac85" />
+
+
 
 # Circuit Diagram 
 
-<img width="858" height="530" alt="image" src="https://github.com/user-attachments/assets/5415ce11-3eb2-4833-a712-1b539cc10b7c" />
+<img width="858" height="530" alt="image" src="https://github.com/user-attachments/assets/4abc7269-1bd7-415f-a2a0-55e319a4d031" />
+
 
 
 # Output Graph
 
-<img width="1912" height="921" alt="image" src="https://github.com/user-attachments/assets/f6297f3a-21d3-426e-91ea-1d5f3c9d0ebe" />
+
+<img width="1912" height="921" alt="image" src="https://github.com/user-attachments/assets/9e6047fb-b513-4eef-8d11-5aafde5c7aaf" />
+
 
 
 # Result
