@@ -31,7 +31,7 @@ Thus the voltage shunt feedback amplifier is designed and constructed  and the f
 | 3 | Bandwidth | \( BW = fh - fl = 70KHz\) | \( BW = f'h - f'l = 0.99MHz\) |
 | 4 | Mid-band Gain | \( A{v(mid)} = 20.40\) | \( A'{v(mid)} = 19.71\) |
 | 5 | Gain at half power point |Go = 20  |Go' = 18  |
-M
+
 ---
 
 **Conclusion:**  
