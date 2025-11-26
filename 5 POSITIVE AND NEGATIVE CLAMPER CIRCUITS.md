@@ -1,4 +1,3 @@
-![WhatsApp Image 2025-11-22 at 13 10 25_7d16f1bc](https://github.com/user-attachments/assets/00643982-01b7-494e-9ad2-4cd35fe6a834)## Exp. No. 5
 **Date:**  
 
 ## POSITIVE AND NEGATIVE CLAMPER CIRCUITS
